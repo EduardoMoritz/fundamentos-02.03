@@ -1,4 +1,7 @@
 # Aula de Clonagem
 ## Git Push/pull
-Cade minha foia
+<<<<<<< HEAD
 asdawdsadwasdaw
+=======
+Cade minha foia
+>>>>>>> bdcd0f0fb32395ea38a4f4d30646e5c270ef457b
