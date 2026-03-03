@@ -1,3 +1,4 @@
 # Aula de Clonagem
 ## Git Push/pull
-Cade minha foia
+## porra de trabalho
+### vou trancar a faculdade
